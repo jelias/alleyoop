@@ -1,4 +1,5 @@
-alleyoop
-========
-
-Alleyoop files
+{
+    "version": 1.4,
+    "download_uri": ".alfredworkflow",
+    "description": "Now you can check for updates with Alleyoop workflow."
+}
